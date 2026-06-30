@@ -1,0 +1,27 @@
+var dir_f741251061e5c7c7ed48ab45c3348f11 =
+[
+    [ "obj", "dir_489a34f874ee199237b4241587f8b6f5.html", "dir_489a34f874ee199237b4241587f8b6f5" ],
+    [ "Admin.cs", "Admin_8cs_source.html", null ],
+    [ "BasedOnHistory.cs", "BasedOnHistory_8cs_source.html", null ],
+    [ "BasedOnPreferences.cs", "BasedOnPreferences_8cs_source.html", null ],
+    [ "BasedOnSimilarUsers.cs", "BasedOnSimilarUsers_8cs_source.html", null ],
+    [ "Catalog.cs", "Catalog_8cs_source.html", null ],
+    [ "ExcludeConsumedFilter.cs", "ExcludeConsumedFilter_8cs_source.html", null ],
+    [ "ExcludeTagsFilter.cs", "ExcludeTagsFilter_8cs_source.html", null ],
+    [ "GenericUser.cs", "GenericUser_8cs_source.html", null ],
+    [ "IContent.cs", "IContent_8cs_source.html", null ],
+    [ "Interaction.cs", "Interaction_8cs_source.html", null ],
+    [ "InteractionType.cs", "InteractionType_8cs_source.html", null ],
+    [ "IRecommendationFilter.cs", "IRecommendationFilter_8cs_source.html", null ],
+    [ "IRecommendationSorter.cs", "IRecommendationSorter_8cs_source.html", null ],
+    [ "IRecommendationStrategy.cs", "IRecommendationStrategy_8cs_source.html", null ],
+    [ "Music.cs", "Music_8cs_source.html", null ],
+    [ "NewestSorter.cs", "NewestSorter_8cs_source.html", null ],
+    [ "PopularityByArtistStrategy.cs", "PopularityByArtistStrategy_8cs_source.html", null ],
+    [ "PopularitySorter.cs", "PopularitySorter_8cs_source.html", null ],
+    [ "PopularityStrategy.cs", "PopularityStrategy_8cs_source.html", null ],
+    [ "RecommendationEngine.cs", "RecommendationEngine_8cs_source.html", null ],
+    [ "SystemFacade.cs", "SystemFacade_8cs_source.html", null ],
+    [ "User.cs", "User_8cs_source.html", null ],
+    [ "UserPreferences.cs", "UserPreferences_8cs_source.html", null ]
+];

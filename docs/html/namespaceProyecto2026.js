@@ -1,0 +1,27 @@
+var namespaceProyecto2026 =
+[
+    [ "Admin", "classProyecto2026_1_1Admin.html", null ],
+    [ "BasedOnHistory", "classProyecto2026_1_1BasedOnHistory.html", "classProyecto2026_1_1BasedOnHistory" ],
+    [ "BasedOnPreferences", "classProyecto2026_1_1BasedOnPreferences.html", "classProyecto2026_1_1BasedOnPreferences" ],
+    [ "BasedOnSimilarUsers", "classProyecto2026_1_1BasedOnSimilarUsers.html", "classProyecto2026_1_1BasedOnSimilarUsers" ],
+    [ "Catalog", "classProyecto2026_1_1Catalog.html", "classProyecto2026_1_1Catalog" ],
+    [ "ExcludeConsumedFilter", "classProyecto2026_1_1ExcludeConsumedFilter.html", "classProyecto2026_1_1ExcludeConsumedFilter" ],
+    [ "ExcludeTagsFilter", "classProyecto2026_1_1ExcludeTagsFilter.html", "classProyecto2026_1_1ExcludeTagsFilter" ],
+    [ "GenericUser", "classProyecto2026_1_1GenericUser.html", "classProyecto2026_1_1GenericUser" ],
+    [ "IContent", "interfaceProyecto2026_1_1IContent.html", null ],
+    [ "Interaction", "classProyecto2026_1_1Interaction.html", "classProyecto2026_1_1Interaction" ],
+    [ "IRecommendationFilter", "interfaceProyecto2026_1_1IRecommendationFilter.html", "interfaceProyecto2026_1_1IRecommendationFilter" ],
+    [ "IRecommendationSorter", "interfaceProyecto2026_1_1IRecommendationSorter.html", "interfaceProyecto2026_1_1IRecommendationSorter" ],
+    [ "IRecommendationStrategy", "interfaceProyecto2026_1_1IRecommendationStrategy.html", "interfaceProyecto2026_1_1IRecommendationStrategy" ],
+    [ "Music", "classProyecto2026_1_1Music.html", "classProyecto2026_1_1Music" ],
+    [ "NewestSorter", "classProyecto2026_1_1NewestSorter.html", "classProyecto2026_1_1NewestSorter" ],
+    [ "PopularityByArtistStrategy", "classProyecto2026_1_1PopularityByArtistStrategy.html", "classProyecto2026_1_1PopularityByArtistStrategy" ],
+    [ "PopularitySorter", "classProyecto2026_1_1PopularitySorter.html", "classProyecto2026_1_1PopularitySorter" ],
+    [ "PopularityStrategy", "classProyecto2026_1_1PopularityStrategy.html", "classProyecto2026_1_1PopularityStrategy" ],
+    [ "Program", "classProyecto2026_1_1Program.html", null ],
+    [ "RecommendationEngine", "classProyecto2026_1_1RecommendationEngine.html", "classProyecto2026_1_1RecommendationEngine" ],
+    [ "SystemFacade", "classProyecto2026_1_1SystemFacade.html", "classProyecto2026_1_1SystemFacade" ],
+    [ "User", "classProyecto2026_1_1User.html", "classProyecto2026_1_1User" ],
+    [ "UserPreferences", "classProyecto2026_1_1UserPreferences.html", "classProyecto2026_1_1UserPreferences" ],
+    [ "InteractionType", "namespaceProyecto2026.html#a1d97e629639472fbefb2162a867949dc", null ]
+];

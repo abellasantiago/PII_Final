@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['recommend_0',['Recommend',['../classProyecto2026_1_1BasedOnHistory.html#a4adcc31161b38783abcd77b9df278ec1',1,'Proyecto2026.BasedOnHistory.Recommend()'],['../classProyecto2026_1_1BasedOnPreferences.html#abc67ff52390c32856246b585e25e4445',1,'Proyecto2026.BasedOnPreferences.Recommend()'],['../classProyecto2026_1_1BasedOnSimilarUsers.html#a4ec35dac99c134bcad2a6d58df827ec4',1,'Proyecto2026.BasedOnSimilarUsers.Recommend()'],['../interfaceProyecto2026_1_1IRecommendationStrategy.html#aa3ffa720ff8771ee8fa07a6fe89a797d',1,'Proyecto2026.IRecommendationStrategy.Recommend()'],['../classProyecto2026_1_1PopularityByArtistStrategy.html#aa54005f47c189c5d578b34bc1c1e0376',1,'Proyecto2026.PopularityByArtistStrategy.Recommend()'],['../classProyecto2026_1_1PopularityStrategy.html#a4ade644b21f144ef692bfa9c8cab8069',1,'Proyecto2026.PopularityStrategy.Recommend()'],['../classProyecto2026_1_1RecommendationEngine.html#a7c247756b0b1b1cbb6d04a27a2c4e90a',1,'Proyecto2026.RecommendationEngine.Recommend()']]],
+  ['recommendationengine_1',['RecommendationEngine',['../classProyecto2026_1_1RecommendationEngine.html',1,'Proyecto2026.RecommendationEngine'],['../classProyecto2026_1_1RecommendationEngine.html#a72eab4674e7a493415ad48323caf3b11',1,'Proyecto2026.RecommendationEngine.RecommendationEngine()']]],
+  ['recursos_20que_20usamos_2',['Recursos que usamos',['../C:/Users/Rodrigo Quincke/Universidad/Programacion2/pii_2026_1_equipo4/README.md#autotoc_md10',1,'']]],
+  ['registerinteraction_3',['RegisterInteraction',['../classProyecto2026_1_1SystemFacade.html#a38692fcf6bc82ed796c35aa10e1d988f',1,'Proyecto2026::SystemFacade']]],
+  ['registeruser_4',['RegisterUser',['../classProyecto2026_1_1SystemFacade.html#a46b8b74b9aaf258ad886197995b857d4',1,'Proyecto2026::SystemFacade']]],
+  ['removeitem_5',['RemoveItem',['../classProyecto2026_1_1Catalog.html#a049c105de829d8b9427a0f473dd8430c',1,'Proyecto2026::Catalog']]],
+  ['removemusic_6',['RemoveMusic',['../classProyecto2026_1_1SystemFacade.html#a175c6d81b7afdd6a1dcbf553d89e1c7d',1,'Proyecto2026::SystemFacade']]]
+];
